@@ -22,3 +22,11 @@ Advanced cloud cost optimization system for analyzing and predicting cloud servi
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+# Cloud Cost Optimizer
+
+![Python application](https://github.com/Kavyakamasani-2003/cloud-cost-optimizer/workflows/Python%20Cloud%20Cost%20Optimizer/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Kavyakamasani-2003/cloud-cost-optimizer)
+
+## Overview
+Advanced cloud cost optimization system for analyzing and predicting cloud service expenses.
